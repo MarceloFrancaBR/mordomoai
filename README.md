@@ -202,19 +202,7 @@ export function MeuComponente({ titulo, valor, onAction }: ComponenteProps) {
 - **Lazy loading** de componentes não críticos
 - **CSS otimizado** com Tailwind CSS purge
 - **Imagens otimizadas** com WebP quando possível
-
-## 👨‍💻 Autor
-
-**Equipe Mordomo**
-
-- 🌐 Website: [clubdosoftware.com.br](https://clubdosoftware.com.br)
-
 ---
 
-<div align="center">
-
-**Feito com ❤️ para simplificar sua vida financeira**
-
-[🏠 Home](https://clubdosoftware.com.br) • [📚 Docs](https://clubdosoftware.com.br/mordomo.html)
 
 </div>
